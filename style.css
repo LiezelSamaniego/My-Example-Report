@@ -1,0 +1,12 @@
+.box {
+    background-color: lightblue;
+    padding: 20px;
+
+    & h1 {
+        color: blue;
+    }
+
+    & p {
+        color: black;
+    }
+}
